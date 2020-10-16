@@ -1,0 +1,13 @@
+part of 'theme_bloc.dart';
+
+abstract class ThemeEvent extends Equatable {
+}
+
+class ChangeTheme extends ThemeEvent {
+  final ThemeData themeData;
+
+  ChangeTheme(this.themeData);
+
+  @override
+  List<Object> get props => [themeData];
+}

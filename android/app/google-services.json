@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "507972368028",
+    "firebase_url": "https://flutix-f9656.firebaseio.com",
+    "project_id": "flutix-f9656",
+    "storage_bucket": "flutix-f9656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507972368028:android:5259381d222f7cb5a9df59",
+        "android_client_info": {
+          "package_name": "id.massurya.flutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507972368028-kini1h5o4jctht1kqtor0mhdtb5hnfg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbKC-5nser2grp9R4r1NQkHFs9OV0PG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507972368028-kini1h5o4jctht1kqtor0mhdtb5hnfg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
