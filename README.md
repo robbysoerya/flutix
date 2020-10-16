@@ -1,5 +1,4 @@
 # Flutter MVVM Architecture with BLoC Patterns and reactiveProgramming (rxdart) : Flutix
-[![Flutter Indonesia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png)](https://www.facebook.com/groups/1738284952897937/)
 
 <p align="center">
   <img src="https://i.ibb.co/581x7wX/Screenshot-1602826887.png" width="250">
