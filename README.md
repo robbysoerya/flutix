@@ -1,6 +1,13 @@
 # Flutter MVVM Architecture with BLoC Patterns and reactiveProgramming (rxdart) : Flutix
 <p align="center">
-  <kbd><img src="https://i.ibb.co/581x7wX/Screenshot-1602826887.png" width="350"></kbd>
+  <kbd><img src="https://i.ibb.co/581x7wX/Screenshot-1602826887.png" width="300"></kbd>
+  <kbd><img src="https://i.ibb.co/DYM06rB/Screenshot-1602827027.png" width="300"></kbd>
+</p>
+<br>
+<p align="center">
+  <kbd><img src="https://i.ibb.co/0ckrB4g/Screenshot-1602826923.png" width="200"></kbd>
+  <kbd><img src="https://i.ibb.co/18FLgMK/Screenshot-1602827010.png" width="200"></kbd>
+  <kbd><img src="https://i.ibb.co/XyWRv0p/Screenshot-1602827014.png" width="200"></kbd>
 </p>
 <br>
 <br>
