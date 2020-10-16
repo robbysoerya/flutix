@@ -19,7 +19,7 @@
 4. **services**: Services classes.
 5. **shared**: Shared value to used in another class.
 4. **ui**: It contains all the page and widgets.
-4. **validators**: Utility classes.
+4. **validators**: Validator for TextField and used at bloc.
 
 #### Classes have been designed in such a way that it could be inherited and maximize the code reuse.
 
