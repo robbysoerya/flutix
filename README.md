@@ -1,5 +1,5 @@
 # Flutter MVVM Architecture with BLoC Patterns and reactiveProgramming (rxdart) : Flutix
-
+```
 <p align="center">
   <img src="https://i.ibb.co/581x7wX/Screenshot-1602826887.png" width="250">
   <img src="https://i.ibb.co/DYM06rB/Screenshot-1602827027.png" width="250">
@@ -12,6 +12,7 @@
 </p>
 <br>
 <br>
+```
 
 #### The app has following packages:
 1. **bloc**: Contains BLoC with reactiveProgramming.
