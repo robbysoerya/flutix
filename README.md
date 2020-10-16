@@ -1,18 +1,7 @@
 # Flutter MVVM Architecture with BLoC Patterns and reactiveProgramming (rxdart) : Flutix
-```
-<p align="center">
-  <img src="https://i.ibb.co/581x7wX/Screenshot-1602826887.png" width="250">
-  <img src="https://i.ibb.co/DYM06rB/Screenshot-1602827027.png" width="250">
-</p>
-<br>
-<p align="center">
-  <img src="https://i.ibb.co/0ckrB4g/Screenshot-1602826923.png" width="200">
-  <img src="https://i.ibb.co/18FLgMK/Screenshot-1602827010.png" width="200">
-  <img src="https://i.ibb.co/XyWRv0p/Screenshot-1602827014.png" width="200">
-</p>
-<br>
-<br>
-```
+
+![Alt text](https://i.ibb.co/581x7wX/Screenshot-1602826887.png)
+
 
 #### The app has following packages:
 1. **bloc**: Contains BLoC with reactiveProgramming.
